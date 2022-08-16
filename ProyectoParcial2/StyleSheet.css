@@ -1,0 +1,23 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a {
+    text-decoration: none;
+  
+}
+.claseDiv{
+    margin-bottom: 50px;
+    
+}
+    .claseDiv a {
+        padding-bottom: 20px;
+    }
+button{
+    padding: 20px;
+}
+h2{
+    padding-bottom: 25px;
+}
